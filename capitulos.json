@@ -136,11 +136,23 @@
     "title": "O Poder do CRUD",
     "topic": "Criando, lendo, atualizando e excluindo dados com Java e JDBC",
     "pages": [
-      "imagens/capitulo12/capa.webp",
-      "imagens/capitulo12/pagina01.webp",
-      "imagens/capitulo12/pagina02.webp",
-      "imagens/capitulo12/pagina03.webp",
-      "imagens/capitulo12/pagina04.webp"
+      "imagens/capitulo12/capa.png",
+      "imagens/capitulo12/pagina01.png",
+      "imagens/capitulo12/pagina02.png",
+      "imagens/capitulo12/pagina03.png",
+      "imagens/capitulo12/pagina04.png"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Especial: Guia Pocket de Java",
+    "topic": "Guia rápido de comandos Java — do básico ao CRUD",
+    "pages": [
+      "imagens/capitulo13/capa.png",
+      "imagens/capitulo13/pagina01.png",
+      "imagens/capitulo13/pagina02.png",
+      "imagens/capitulo13/pagina03.png",
+      "imagens/capitulo13/pagina04.png"
     ]
   }
 ]
