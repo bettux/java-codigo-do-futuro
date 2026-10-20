@@ -132,9 +132,15 @@
     ]
   },
   {
-    "id": 12,
-    "title": "O Poder do CRUD",
-    "topic": "Create, Read, Update e Delete",
-    "pages": []
-  }
+  "id": 12,
+  "titulo": "Capítulo 12: O Poder do CRUD",
+  "descricao": "Criando, lendo, atualizando e excluindo dados com Java e JDBC.",
+  "capa": "imagens/capitulo12/capa.png",
+  "paginas": [
+    "imagens/capitulo12/pagina1.png",
+    "imagens/capitulo12/pagina2.png",
+    "imagens/capitulo12/pagina3.png",
+    "imagens/capitulo12/pagina4.png"
+  ]
+}
 ]
