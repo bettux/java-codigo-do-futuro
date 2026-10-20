@@ -1,0 +1,12 @@
+JAVA — CÓDIGO DO FUTURO — GUIA DE PUBLICAÇÃO
+
+1. Descompacte este ZIP no seu computador.
+2. No repositório do GitHub, clique em Add file > Upload files.
+3. Arraste TODOS os arquivos e a pasta imagens (não a pasta externa java-codigo-do-futuro).
+4. Clique em Commit changes. Aguarde o upload terminar.
+5. Vá em Settings > Pages. Em Build and deployment, use Deploy from a branch; branch main; folder /(root), depois Save.
+6. O endereço publicado será https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO/
+
+OBS: O capítulo 12 está no índice, mas suas imagens não estavam disponíveis na pasta de origem recuperada nesta sessão. Para incluí-las depois, crie imagens/capitulo12/, envie os arquivos capa.webp, pagina01.webp, pagina02.webp, pagina03.webp, pagina04.webp e acrescente os caminhos no registro id 12 de capitulos.json.
+
+IMPORTANTE: O site é gratuito e não necessita instalar Git. As imagens são materiais ilustrados; alguns trechos de código dentro das imagens devem ser revisados antes de uso como material executável. Exemplos com credenciais são apenas didáticos; não publique senhas reais.

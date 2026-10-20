@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "A Primeira Instrução",
+    "topic": "System.out.println()",
+    "pages": [
+      "imagens/capitulo01/capa.webp",
+      "imagens/capitulo01/pagina01.webp",
+      "imagens/capitulo01/pagina02.webp",
+      "imagens/capitulo01/pagina03.webp",
+      "imagens/capitulo01/pagina04.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "O Poder das Variáveis",
+    "topic": "Tipos de dados e variáveis",
+    "pages": [
+      "imagens/capitulo02/capa.webp",
+      "imagens/capitulo02/pagina01.webp",
+      "imagens/capitulo02/pagina02.webp",
+      "imagens/capitulo02/pagina03.webp",
+      "imagens/capitulo02/pagina04.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Força dos Operadores",
+    "topic": "Operadores aritméticos, relacionais e lógicos",
+    "pages": [
+      "imagens/capitulo03/capa.webp",
+      "imagens/capitulo03/pagina01.webp",
+      "imagens/capitulo03/pagina02.webp",
+      "imagens/capitulo03/pagina03.webp",
+      "imagens/capitulo03/pagina04.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "O Poder das Escolhas",
+    "topic": "if, else e else if",
+    "pages": [
+      "imagens/capitulo04/capa.webp",
+      "imagens/capitulo04/pagina01.webp",
+      "imagens/capitulo04/pagina02.webp",
+      "imagens/capitulo04/pagina03.webp",
+      "imagens/capitulo04/pagina04.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "O Poder da Repetição",
+    "topic": "Laços for e while",
+    "pages": [
+      "imagens/capitulo05/capa.webp",
+      "imagens/capitulo05/pagina01.webp",
+      "imagens/capitulo05/pagina02.webp",
+      "imagens/capitulo05/pagina03.webp",
+      "imagens/capitulo05/pagina04.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "O Poder dos Vetores",
+    "topic": "Arrays e índices",
+    "pages": [
+      "imagens/capitulo06/capa.webp",
+      "imagens/capitulo06/pagina01.webp",
+      "imagens/capitulo06/pagina02.webp",
+      "imagens/capitulo06/pagina03.webp",
+      "imagens/capitulo06/pagina04.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "O Poder do Switch Case",
+    "topic": "switch, case, break e default",
+    "pages": [
+      "imagens/capitulo07/capa.webp",
+      "imagens/capitulo07/pagina01.webp",
+      "imagens/capitulo07/pagina02.webp",
+      "imagens/capitulo07/pagina03.webp",
+      "imagens/capitulo07/pagina04.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O Poder das Matrizes",
+    "topic": "Linhas, colunas e laços aninhados",
+    "pages": [
+      "imagens/capitulo08/capa.webp",
+      "imagens/capitulo08/pagina01.webp",
+      "imagens/capitulo08/pagina02.webp",
+      "imagens/capitulo08/pagina03.webp",
+      "imagens/capitulo08/pagina04.webp"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "O Poder dos Métodos",
+    "topic": "Parâmetros, retorno e reutilização",
+    "pages": [
+      "imagens/capitulo09/capa.webp",
+      "imagens/capitulo09/pagina01.webp",
+      "imagens/capitulo09/pagina02.webp",
+      "imagens/capitulo09/pagina03.webp",
+      "imagens/capitulo09/pagina04.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Classes e Objetos",
+    "topic": "Orientação a objetos",
+    "pages": [
+      "imagens/capitulo10/capa.webp",
+      "imagens/capitulo10/pagina01.webp",
+      "imagens/capitulo10/pagina02.webp",
+      "imagens/capitulo10/pagina03.webp",
+      "imagens/capitulo10/pagina04.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Conexão Java e Banco de Dados",
+    "topic": "JDBC e consultas SQL",
+    "pages": [
+      "imagens/capitulo11/capa.webp",
+      "imagens/capitulo11/pagina01.webp",
+      "imagens/capitulo11/pagina02.webp",
+      "imagens/capitulo11/pagina03.webp",
+      "imagens/capitulo11/pagina04.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "O Poder do CRUD",
+    "topic": "Create, Read, Update e Delete",
+    "pages": []
+  }
+]
